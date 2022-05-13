@@ -7,3 +7,12 @@
     下载带包好的ExifGPS.7z压缩包
     解压后 进入 bin 目录
     找到 自定义GPS.exe 启动即可
+
+
+### 代码启动的话idea 右边 maven 工具
+    javafx:run
+
+
+###  手动
+
+java --module-path "D:\Program Files\Java\javafx-sdk-17.0.2\lib" --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.media,javafx.web,javafx.swing -jar demo.jar
