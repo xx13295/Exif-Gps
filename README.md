@@ -9,7 +9,10 @@
     找到 自定义GPS.exe 启动即可
 
 
-### 代码启动的话idea 右边 maven 工具
+### maven 工具
+
+    首先确认好exiftool的环境变量 直接右边Releases打包好的ExifGPS.7z压缩包可以无视。
+    
     javafx:run
 
 
